@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'mayur'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_098BE60EBE3A4B63815A673CB421B469 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ECDE135E93B641AEACA17CE62F6F9A17 }}
           package: .
